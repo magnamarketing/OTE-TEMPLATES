@@ -1,0 +1,62 @@
+<style>
+@media screen and (max-width: 600px) {
+  .evergage-block-title {
+    font-size: 16px !important;
+    margin-bottom: 30px !important;
+    margin-top: 35px !important;
+    width: 100% !important;
+   
+  }
+}
+</style>
+
+<div class="simulator-preview-section" style="max-width: 640px;"><!-- start title recs block (Block 1) -->
+                      <table cellspacing="0" cellpadding="0" border="0" align="center" width="100%" style="table-layout: fixed;">
+        
+            <tr>
+                <td width="100%" align="center">
+                    <div style="max-width: 100%; position: relative; overflow: hidden;">
+                        <div class="evergage-block-title" style="font-family: Arial, sans-serif; font-size: 25px; font-weight: normal;  letter-spacing: 3px; text-align: center; margin-bottom: 34px;  margin-top: 38px; "><span style="margin-left: 4px">RECOMMENDED FOR YOU</span>
+                         </div>
+                    </div>
+                </td>
+            </tr>
+        
+    </table>
+
+                                                    <!-- start evergage recs block (Block 1) -->
+    <table cellspacing="0" cellpadding="0" border="0" align="center" width="100%" style="table-layout: fixed;">
+        
+            <tr>
+                <td width="100%">
+                    <div class="evergage-block" style="max-height: 100%; max-width: 100%; position: relative; overflow: hidden; text-align: center; ">
+                        <div class="evergage-recs" style="display: table; width: 100%; max-height: 100%;">
+                            <span class="evergage-rec" style="display: inline-block; ">
+                                <a href="https://winstonflowers.us-5.evergage.com/api/dataset/engage/campaign/6Or7y/yDO51/1/detail?userId=deborahrhodes@optonline.net&userIdType=Named&simulate=true&cache=1643754700420" target="_blank">
+                                    <img src="https://winstonflowers.us-5.evergage.com/api/dataset/engage/campaign/6Or7y/yDO51/1/summary.png?userId=deborahrhodes@optonline.net&userIdType=Named&simulate=true&cache=1643754700420" style="max-width: 100%; border: 0;" border="0" alt="">
+                                </a>
+                            </span>
+                            <span class="evergage-rec" style="display: inline-block; ">
+                                <a href="https://winstonflowers.us-5.evergage.com/api/dataset/engage/campaign/6Or7y/yDO51/2/detail?userId=deborahrhodes@optonline.net&userIdType=Named&simulate=true&cache=1643754700420" target="_blank">
+                                    <img src="https://winstonflowers.us-5.evergage.com/api/dataset/engage/campaign/6Or7y/yDO51/2/summary.png?userId=deborahrhodes@optonline.net&userIdType=Named&simulate=true&cache=1643754700420" style="max-width: 100%; border: 0;" border="0" alt="">
+                                </a>
+                            </span>
+                            <span class="evergage-rec" style="display: inline-block; ">
+                                <a href="https://winstonflowers.us-5.evergage.com/api/dataset/engage/campaign/6Or7y/yDO51/3/detail?userId=deborahrhodes@optonline.net&userIdType=Named&simulate=true&cache=1643754700420" target="_blank">
+                                    <img src="https://winstonflowers.us-5.evergage.com/api/dataset/engage/campaign/6Or7y/yDO51/3/summary.png?userId=deborahrhodes@optonline.net&userIdType=Named&simulate=true&cache=1643754700420" style="max-width: 100%; border: 0;" border="0" alt="">
+                                </a>
+                            </span>
+                            <span class="evergage-rec" style="display: inline-block; ">
+                                <a href="https://winstonflowers.us-5.evergage.com/api/dataset/engage/campaign/6Or7y/yDO51/4/detail?userId=deborahrhodes@optonline.net&userIdType=Named&simulate=true&cache=1643754700420" target="_blank">
+                                    <img src="https://winstonflowers.us-5.evergage.com/api/dataset/engage/campaign/6Or7y/yDO51/4/summary.png?userId=deborahrhodes@optonline.net&userIdType=Named&simulate=true&cache=1643754700420" style="max-width: 100%; border: 0;" border="0" alt="">
+                                </a>
+                            </span>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        
+    </table>
+    <!-- end evergage recs block (Block 1) --></div>
+                
+                
